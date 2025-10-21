@@ -121,9 +121,9 @@ For additional help:
 
 ## 🏷️ Version Information
 
-- **Documentation Version**: 2024.10 (October 2024)
+- **Documentation Version**: 2025.10 (October 2025)
 - **Target Services**: Azure AI Search, Microsoft Copilot Studio, Azure OpenAI
-- **Last Updated**: October 21, 2024
+- **Last Updated**: October 21, 2025
 
 ---
 
